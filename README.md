@@ -1,7 +1,7 @@
 <h1 align="center">Celebrity Reputation Analysis</h1>
 
 인터넷 기사, 블로그 글, 트위터, 페이스북 등에 있는 유명인들에 관련된 글을 크롤링하여 유명인들의 평판을 분석하는 프로젝트입니다.  
-> 참고 : https://github.com/newhiwoong/Reputation_analysis
+> 참고 : https://github.com/gyunggyung/Reputation_analysis
 
 ## 개발파트
 한 명 당 메인 1, 서브 1~2로 다양한 분야를 체험해볼 수 있습니다.
@@ -39,10 +39,10 @@
 
 ## 예제
 
-- [Front end 프로토타입](https://github.com/newhiwoong/finger)  
+- [Front end 프로토타입](https://github.com/gyunggyung/finger)  
 >제가 제작한 간단한 페이지 입니다. (Front end)
 
-- [정치인 호감도 분석](https://github.com/newhiwoong/Reputation_analysis)  
+- [정치인 호감도 분석](https://github.com/gyunggyung/Reputation_analysis)  
 >서울대학교 빅데이터 아카데미에서 진행한 간단한 평판분석 프로젝트입니다. (크롤링, 데이터 분석)
 
 - [그래프 제작 예제](https://www.zingchart.com/)  
